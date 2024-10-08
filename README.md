@@ -8,4 +8,4 @@ This project is a web application for object detection from video. The back-end 
 4. **Django Backend: Handles** video file management, interaction with the YOLOv8 model, and serves the processed videos back to the user.
 
 ![image](https://github.com/user-attachments/assets/511c0c48-5fb0-4ab7-9511-ffc1cbe677cc)
-![image](https://github.com/user-attachments/assets/313bbef9-7d05-4f47-92cd-fd73c57130c5)
+
